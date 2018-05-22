@@ -179,7 +179,7 @@ build () {
     fi
 
     # Cloning from GitHub
-    git clone --depth "$clone_depth" https://github.com/languagetool-org/languagetool.git
+    git clone --depth "$clone_depth" git@github.com:Lunyr/languagetool.git
     cd languagetool || exit 2
 
     # Seeing if maven is installed, and installing it if not
@@ -203,7 +203,7 @@ build_quiet () {
     fi
 
     # Cloning from GitHub
-    git clone -q --depth "$clone_depth" https://github.com/languagetool-org/languagetool.git
+    git clone -q --depth "$clone_depth" git@github.com:Lunyr/languagetool.git
     cd languagetool || exit 2
 
     # Seeing if maven is installed, and installing it if not
@@ -255,7 +255,7 @@ install_maven() {
         apt update -y
         apt install maven -y
         echo "apt remove maven -y" >> /etc/languagetool/uninstall.sh
-    
+
     # XXX This needs to be reviewed by someone with a MacOS
     #     Uncomment after review
     #

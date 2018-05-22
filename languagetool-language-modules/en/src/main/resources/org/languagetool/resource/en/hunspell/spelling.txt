@@ -10980,15 +10980,8 @@ CDDL
 LGPL
 AGPL
 MPL
-
 ################################### Crypto Words ##############################
-2FA
-Abstract
-Account
-Address
-Addy
 Airdrop
-Algorithm
 Alphanumeric
 Altcoin
 AML
@@ -10996,40 +10989,22 @@ Anonymous
 Arbitrage
 ASIC
 ATH
-Atomic Swap
-Bag Holder
-Bearwhale
 BFA
 BGP
 Bit
 Bitcoin
 Bitpay
-Bitpay.com
-Block
 Block Height
 Block Reward
 Blockchain
-Bot
-Breaking
 BTC
 BTFD
 BTM
-Bubble
-Bull
-Bull Trap
 Centralized
 Chain Split
 Choyna
-Cipher
 Ciphertext
-Circulating Supply
-Code
-Coin
-Coinbase.com
 Cold Storage
-Consensus
-Contract
-Core Wallet
 CPU
 Crowdfunding
 Crypto
@@ -11044,41 +11019,22 @@ DAO
 dapp
 Dark Web
 DDoS
-Decentralized Application
-Decryption
-Digital
-Digital Signature
-Distributed
 Distributed Ledger
 DLT
 Double Spending
-Dust Transactions
 DYOR
 EEA
-Electrum Wallet
-Emission
-Encryption
-Escrow
 ETH
 Ethereum
-Exchange
-Faucet
 Fiat
-Fiat Currency
 FOMO
-Fork
 FUD
-Full Node
 Fungible
-Gas
 Gas Limit
 Gas Price
-Gdax.com
 Genesis Block
 GPU
 Gwei
-Hacking
-Halving
 Hard Cap
 Hard Fork
 Hardware Wallet
@@ -11091,20 +11047,13 @@ Hyperledger
 IBO
 ICO
 ITO
-Inflation
-Input
 Instamine
-Invest
 JOMO
-Key
-Ledger
 Leverage
 Lightning Network
 Lisk
 Litecoin
 LTC
-Margin Trading
-Market Capitalization
 Masternode
 Max Supply
 mBTC
@@ -11115,48 +11064,27 @@ Microbitcoin
 Microtransaction
 Millibitcoin
 Mining
-Mining Difficulty
-Mining Pool
-Mining Rig
-Mixing Service
-Mnemonic Phrase
 Mnemonics
 Money
 Mooning
-Moore's Law
-Mtgox.com
 Multisignature
 NEO
 Node
 Nonce
-Open Source
 Orphan
 OTC
 Output
-Over The Counter
 P2P
-Paper Wallet
 Payee
-Peer to Peer
 Permissionless
 PoB
 PoD
-Poloniex.com
 Ponzi Scheme
 PoS
 PoW
 Premine
-Private Key
-Proof of Burn
-Proof of Developer
-Proof of Stake
-Proof of Work
 Pseudonymous
-Public Key
-Pump and Dump
 Pumping
-QR Code
-Raiden Network
 Regulated
 Rekt
 Ripple
@@ -11165,7 +11093,6 @@ ROI
 Satoshi
 Scamcoin
 Scammer
-Secret Key
 Segregated Witness
 SHA256
 Sharding
@@ -11182,29 +11109,17 @@ Software Wallet
 Solidity
 SPV
 Stale Block
-Taint
 Tangle
 TestNet
-Token
 Tokenize
-Total Supply
-Transaction
-Transaction Fee
 Trustless
 TX
-TX Fee
 uBTC
 Unregulated
 UTXO
 Vanity Address
-Venture
-Venture Capital
 Vertcoin
-Virus
-Volatility
 VTC
-Wallet
-Weak Hands
 Wei
 Whales
 White Paper
